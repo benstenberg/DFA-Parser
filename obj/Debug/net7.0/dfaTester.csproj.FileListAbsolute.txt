@@ -1,0 +1,15 @@
+/home/ben/dev/dfaTester/bin/Debug/net7.0/dfaTester
+/home/ben/dev/dfaTester/bin/Debug/net7.0/dfaTester.deps.json
+/home/ben/dev/dfaTester/bin/Debug/net7.0/dfaTester.runtimeconfig.json
+/home/ben/dev/dfaTester/bin/Debug/net7.0/dfaTester.dll
+/home/ben/dev/dfaTester/bin/Debug/net7.0/dfaTester.pdb
+/home/ben/dev/dfaTester/obj/Debug/net7.0/dfaTester.csproj.AssemblyReference.cache
+/home/ben/dev/dfaTester/obj/Debug/net7.0/dfaTester.GeneratedMSBuildEditorConfig.editorconfig
+/home/ben/dev/dfaTester/obj/Debug/net7.0/dfaTester.AssemblyInfoInputs.cache
+/home/ben/dev/dfaTester/obj/Debug/net7.0/dfaTester.AssemblyInfo.cs
+/home/ben/dev/dfaTester/obj/Debug/net7.0/dfaTester.csproj.CoreCompileInputs.cache
+/home/ben/dev/dfaTester/obj/Debug/net7.0/dfaTester.dll
+/home/ben/dev/dfaTester/obj/Debug/net7.0/refint/dfaTester.dll
+/home/ben/dev/dfaTester/obj/Debug/net7.0/dfaTester.pdb
+/home/ben/dev/dfaTester/obj/Debug/net7.0/dfaTester.genruntimeconfig.cache
+/home/ben/dev/dfaTester/obj/Debug/net7.0/ref/dfaTester.dll
